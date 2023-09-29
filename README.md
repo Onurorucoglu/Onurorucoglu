@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.webtekno.com/media/cache/content_detail_v2/article/23831/turkiye-deki-yazilim-sektorunu-buyutmek-icin-devletten-onemli-adim-1483725143.jpg)
+![MasterHead](https://cdn.webtekno.com/media/cache/content_detail_v2/article/23831/turkiye-deki-yazilim-sektorunu-buyutmek-icin-devletten-onemli-adim-1483725143.jpg)
 <h1 align="center">Hi 👋, I'm Onur Oruçoğlu</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
