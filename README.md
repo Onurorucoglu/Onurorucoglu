@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.webtekno.com%2Fmedia%2Fcache%2Fcontent_detail_v2%2Farticle%2F23831%2Fturkiye-deki-yazilim-sektorunu-buyutmek-icin-devletten-onemli-adim-1483725143.jpg&tbnid=KbowmOyvkh9mkM&vet=12ahUKEwjmgMLbv8-BAxV-9bsIHXXuAk4QMygMegQIARBs..i&imgrefurl=https%3A%2F%2Fwww.webtekno.com%2Fturkiye-deki-yazilim-sektorunu-buyutmek-icin-devletten-onemli-adim-h23831.html&docid=-Y_tGA4IOVMizM&w=788&h=443&q=yaz%C4%B1l%C4%B1m&ved=2ahUKEwjmgMLbv8-BAxV-9bsIHXXuAk4QMygMegQIARBs)
+[![MasterHead](https://cdn.webtekno.com/media/cache/content_detail_v2/article/23831/turkiye-deki-yazilim-sektorunu-buyutmek-icin-devletten-onemli-adim-1483725143.jpg)
 <h1 align="center">Hi 👋, I'm Onur Oruçoğlu</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
