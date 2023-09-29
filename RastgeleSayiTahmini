@@ -1,0 +1,64 @@
+ class Program
+    {
+        static void Main(string[] args)
+        {
+
+            // Sayı tahmin 
+            // 1-10 arasında rast gele sayı tahmin etme 
+            // Puanlama yap
+            // Devam etmesi için e/h
+
+            do
+            {
+
+                // var rnd = new Random();
+                int tutulan = (new Random()).Next(1, 10);
+                int hak = 5; // kullanıcı max. 5 haktaa tahmin edebilsin. 5=>0
+                int tur = 0;
+                int sayi; // Değer atamıyoruz kullanıcıdan alınacak.
+
+                double soruPuani = 100 / hak;
+
+                while (hak > 0)
+                {
+                    tur++;
+                    Console.Write($"{tur}. sayı: ");
+                    sayi = int.Parse(Console.ReadLine()!);
+                    hak--;
+
+
+                    if (sayi == tutulan)
+                    {
+                        double puan = 100 - (soruPuani * (tur - 1));
+                        Console.WriteLine($"puanınız {puan}");
+                        Console.WriteLine($"Tebrikler {tur}. denemede bildiniz..");
+                        break;
+                    }
+                    else
+                    {
+                        if (hak == 0)
+                        {
+                            Console.WriteLine("Hakkınız bitti.");
+                            break;
+                        }
+
+                        else if (tutulan > sayi)
+                            Console.WriteLine("Yukarı");
+                        else
+                            Console.WriteLine("Aşagı");
+                    }
+
+
+                }
+                Console.WriteLine("Oyun bİtti.");
+                Console.Write("devam etmek istiyor musunuz? (e/h)");
+
+                string result = Console.ReadLine()!;
+
+                if (result == "h" || result =="hayir")
+                break;
+
+            } while (true);
+        }
+    }
+}
